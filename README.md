@@ -1,3 +1,4 @@
+# Basic chatbot
 def chatbot():
     print("🤖 Chatbot: Hello! Type something to chat. Type 'bye' to exit.")
 
